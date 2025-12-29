@@ -1,0 +1,5 @@
+http://localhost/edu/                     visit website
+http://localhost/edu/admin		  Admin panel
+
+admin
+admin123
